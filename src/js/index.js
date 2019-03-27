@@ -1,1 +1,2 @@
-alert('sf')
+alert('sf');
+alert('sdf')
